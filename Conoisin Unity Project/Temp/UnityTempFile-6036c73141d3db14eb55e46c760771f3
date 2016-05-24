@@ -87,6 +87,7 @@ Assets/Scripts/Pauser.cs
 Assets/Scripts/PickupSpawner.cs
 Assets/Scripts/PlayerControl.cs
 Assets/Scripts/PlayerHealth.cs
+Assets/Scripts/Player_Controller_1.cs
 Assets/Scripts/Remover.cs
 Assets/Scripts/Rocket.cs
 Assets/Scripts/Score.cs

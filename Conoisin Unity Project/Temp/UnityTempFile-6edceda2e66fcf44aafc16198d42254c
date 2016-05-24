@@ -71,7 +71,6 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_WIN
-Assets/Player_Controller_1.cs
 Assets/Scripts/BackgroundParallax.cs
 Assets/Scripts/BackgroundPropSpawner.cs
 Assets/Scripts/Bomb.cs
@@ -87,6 +86,7 @@ Assets/Scripts/Pauser.cs
 Assets/Scripts/PickupSpawner.cs
 Assets/Scripts/PlayerControl.cs
 Assets/Scripts/PlayerHealth.cs
+Assets/Scripts/Player_Controller_1.cs
 Assets/Scripts/Remover.cs
 Assets/Scripts/Rocket.cs
 Assets/Scripts/Score.cs
